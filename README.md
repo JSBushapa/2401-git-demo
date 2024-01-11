@@ -11,4 +11,6 @@ When I make changes to my code
 the commit to be sent to github
 4. 'git push -u origin main' sending the changes to github (origin)
 on the main branch  
+5. 'git clone "ssh key" get ssh key from github paste it into terminal along with the prrevious command.
+6. fork
 
